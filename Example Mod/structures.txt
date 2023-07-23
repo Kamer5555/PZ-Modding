@@ -1,0 +1,9 @@
+The Mod structure in mods folder should always be 
+..mods\Your_Mod/media/Your_stuff
+
+for workshop it is
+..Workshop\Your_Mod_Collection/Contents/mods/Your_Mods_Can_Have_Multiple/media/Your_stuff
+
+Usually if your mod is not loading/appearing in game, you messed something with that or mod.info file.
+
+That's why when you install for example 10 years later MOD, you have 6 version of it, because it is collection of mods.
