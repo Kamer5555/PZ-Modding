@@ -1,9 +1,36 @@
+-----------------------------------------------------------------
 The Mod structure in mods folder should always be 
-..mods\Your_Mod/media/Your_stuff
+-----------------------------------------------------------------
+    mods\YourMod_Example\..      
+_________________________________
+|    - poster aka thumbnail     |
+|    - icon                     |
+|    - mod.info                 |
+_________________________________
+    ..\media\                   
+_________________________________
+|     - stuff...                |
+_________________________________
 
-for workshop it is
-..Workshop\Your_Mod_Collection/Contents/mods/Your_Mods_Can_Have_Multiple/media/Your_stuff
+-----------------------------------------------------------------
+The Collection structure in workshop folder should always be 
+-----------------------------------------------------------------
+    Workshop\YourCollection_Example\..                   
+________________________________________________________
+|    - preview.png                                     |
+|    - workshop.txt (Generates after first upload)     |
+________________________________________________________
+    ..\Contents\mods\                                 
+________________________________________________________
+|        - YourMod_Example1                            |
+|        - YourMod_Example2                            |
+|        ...                                           |
+________________________________________________________
+-----------------------------------------------------------------
 
-Usually if your mod is not loading/appearing in game, you messed something with that or mod.info file.
+Usually if your mod is not loading/appearing in game, 
+you messed something with that or mod.info file.
 
-That's why when you install for example 10 years later MOD, you have 6 version of it, because it is collection of mods.
+That's why when you install for example 10 years later MOD, 
+you have 6 version of it, because it is collection of mods.
+-----------------------------------------------------------------
