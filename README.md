@@ -1,2 +1,2 @@
 # PZ-Modding
-General stuff for pz modding, mod examples, structures, functions.
+General stuff for pz modding, mod templates, structures, functions.
